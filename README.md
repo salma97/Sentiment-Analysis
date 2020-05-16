@@ -17,5 +17,8 @@ Testing Accuracy:  0.7960 </br>
 Training Accuracy: 1.0000 </br>
 Testing Accuracy:  0.8128 </br>
 
+#### SA.py contains the model and the function used for training
+#### demo.py is used for prediction
+
 
 
