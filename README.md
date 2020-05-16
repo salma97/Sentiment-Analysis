@@ -19,6 +19,7 @@ Testing Accuracy:  0.8128 </br>
 
 #### SA.py contains the model and the function used for training
 #### demo.py is used for prediction
+#### GloVe can be found here: http://nlp.stanford.edu/data/glove.6B.zip
 
 
 
